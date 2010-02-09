@@ -1,0 +1,23 @@
+2002-11-29  Bill White  <billw@wolfram.com>
+
+	* cal-sanctoral.el (rc-01-03): New celebration in the universal
+	calendar.  Source: http://www.usccb.org/liturgy/innews/082002.htm
+	(rc-02-08): ditto
+	(rc-05-13): ditto
+	(rc-05-21): ditto
+	(rc-05-22): ditto
+	(rc-07-09): ditto
+	(rc-07-20): ditto
+	(rc-07-24): ditto
+	(rc-08-09): ditto
+	(rc-09-12): ditto
+	(rc-09-23): ditto
+	(rc-11-25): ditto
+
+2002-11-05  Bill White  <billw@wolfram.com>
+
+	* cal-catholic.el (calendar-catholic-date-string): Accounting for
+	transfer of Immaculate Conception when 8 Dec falls on a Sunday.
+
+	* cal-seasonal.el (christ-the-king): Added info for Christ the King.
+
